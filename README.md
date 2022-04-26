@@ -3,7 +3,9 @@ Bash application for the Sectigo API
 
 ## Install
 git clone https://github.com/iamilias/sectigo-toolkit
-cd sectigo-toolkit && sudo cp sectigokit.sh /usr/local/bin/sectigokit && sudo chmod +x /usr/local/bin/sectigokit
+
+cd sectigo-toolkit && vim sectigokit.sh
+sudo cp sectigokit.sh /usr/local/bin/sectigokit && sudo chmod +x /usr/local/bin/sectigokit
 
 ### Usage
 
